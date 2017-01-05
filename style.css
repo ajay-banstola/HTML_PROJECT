@@ -1,0 +1,122 @@
+html{
+    background-color: black;
+}
+body{
+    font-family: sans-serif;
+    font-size: 1.0em;
+    line-height: 1.5em;
+}
+img {
+    width:100%;
+
+}
+h1{
+    text-align: center;
+    padding-top:20px;
+    text-transform: uppercase;
+    color: white;
+    font-family:coves;
+
+}
+h2{
+    color: brown;
+    text-transform: uppercase;
+}
+#main{
+    background-color: bisque;
+    padding: 0em 1em 1em;
+    padding-top:10px ;
+
+}
+#footer{
+    text-align: center;
+    color: aliceblue;
+    font-size: 0.85em;
+}
+#menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+#logout{
+    float: right;
+}
+#items{
+    float: right;
+
+}
+#titems{
+    float:right;
+}
+#oitems{
+    float: right;
+}
+
+
+a:link, a:visited
+{
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+a:hover,a:active{
+    color: #ff5c5c;
+}
+span{
+    color:red;
+    font-size: 1.15em;
+    text-transform: uppercase;
+}
+table{
+    width: 100%;
+    table-layout: fixed;
+}
+iframe{
+    border:0;
+    width: 100%;
+    height:350px;
+
+}
+#welcome{
+    font-style: inherit;
+    font-family: Algerian;
+    font-size: large;
+    color: #ff5c5c;
+    text-align: center;
+    text-decoration-style: dotted;
+}
+input#password {
+    margin-left: 5px;
+}
+
+input#email {
+    margin-left: 60px;
+}
+input#address {
+    margin-left: 47px;
+}
+input#date {
+    margin-left: 15px;
+    width: 166px;
+}
+input#name {
+    margin-left: 62px;
+}
+
+
+
+
+
+
+
+
+
+
